@@ -1,0 +1,13 @@
+{
+  "name": "desafio04",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "moment": "^2.29.1"
+  }
+}
